@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": "b2f0",
+      "text": "Clean room",
+      "completed": false
+    },
+    {
+      "id": "e6f0",
+      "text": "Do homework",
+      "completed": false
+    },
+    {
+      "id": "3d3c",
+      "text": "Clean kitchen",
+      "completed": false
+    },
+    {
+      "text": "do laundary",
+      "completed": false,
+      "id": "adCFR4r"
+    },
+    {
+      "text": "make your bed",
+      "completed": false,
+      "id": "rm_tLjb"
+    }
+  ]
+}
